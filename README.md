@@ -3,7 +3,7 @@
 Steps to reproduce locally....
 
     #!/bin/bash
-    git clone git@github.com:CakePHPKitchen/CakePHP-Issue-11048.git
+    git clone https://github.com/CakePHPKitchen/CakePHP-Issue-11048.git
     cd CakePHP-Issue-11048
     composer install
     mysql -u root < config/schema/basics.sql
